@@ -76,7 +76,7 @@ Atualmente, também venho aprofundando meus conhecimentos em **AI Engineering**,
 
 ## 📚 Artigos Técnicos
 
-🔗 **[Como unir conhecimento em negócios e o desenvolvimento de software](SEU_LINK_DO_ARTIGO)**
+🔗 **[Como unir conhecimento em negócios e o desenvolvimento de software](https://www.linkedin.com/pulse/do-papel-ao-sistema-como-transformei-um-processo-de-%C3%B3ptico-macedo-hofuf/)**
 
 ---
 
@@ -109,22 +109,10 @@ Projetos envolvendo desenvolvimento de APIs, autenticação, integração de ser
 
 ---
 
-## 🎯 Atualmente estudando
-
-* AI Engineering
-* Sistemas de agentes
-* LLMs e RAG
-* Arquitetura de software
-* Cloud & DevOps
-* Kubernetes
-* Automação e integração de sistemas
-
----
-
 ## 📫 Contato
 
-✉️ **E-mail:** SEU_EMAIL
-🔗 **LinkedIn:** [Victor Macedo](SEU_LINKEDIN)
+✉️ **E-mail:** victormcdcosta@gmail.com
+🔗 **LinkedIn:** [Victor Macedo](https://www.linkedin.com/in/vctrmacedo)
 
 ---
 

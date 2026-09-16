@@ -64,7 +64,7 @@ Atualmente, também venho aprofundando meus conhecimentos em **AI Engineering**,
 
 ## 🚀 Principais áreas de atuação
 
-✔️ Desenvolvimento de aplicações **Back-End** com Python
+✔️ Desenvolvimento de aplicações **Back-End** 
 ✔️ Construção de **APIs REST** e integração entre serviços
 ✔️ Arquitetura de software e aplicação de **SOLID e padrões de projeto**
 ✔️ Desenvolvimento **Full Stack**
@@ -78,34 +78,6 @@ Atualmente, também venho aprofundando meus conhecimentos em **AI Engineering**,
 
 🔗 **[Como unir conhecimento em negócios e o desenvolvimento de software](https://www.linkedin.com/pulse/do-papel-ao-sistema-como-transformei-um-processo-de-%C3%B3ptico-macedo-hofuf/)**
 
----
-
-## 💻 Projetos em destaque
-
-### 🔹 Sistema de Gestão para Laboratório Óptico
-
-Sistema desenvolvido para digitalizar e centralizar processos de um laboratório óptico, substituindo fluxos baseados em planilhas e papel.
-
-**Principais recursos:**
-
-* Gestão de ordens de serviço
-* Controle de produtos e estoque
-* Gestão de parceiros
-* Fechamento quinzenal
-* Relatórios e dashboards
-* Controle de acesso por perfil
-* Registro de alterações
-* Geração de documentos em PDF
-
-**Stack:** Python • FastAPI • Vue.js • PostgreSQL • Docker
-
----
-
-### 🔹 Projetos de Back-End e APIs
-
-Projetos envolvendo desenvolvimento de APIs, autenticação, integração de serviços, persistência de dados, arquitetura de aplicações e automação de processos.
-
-**Tecnologias:** Python • FastAPI • Django • Flask • PostgreSQL • Docker
 
 ---
 
